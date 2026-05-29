@@ -26,15 +26,12 @@
 
 I am a highly motivated **Full-Stack Developer** specializing in the MERN stack and AI integrations. I bridge the gap between complex backend architectures and clean, interactive frontend experiences, focusing on building high-performance, containerized web applications.
 
-```javascript
-const mehul = {
-  role: "Full-Stack Engineer",
-  stack: ["MongoDB", "Express.js", "React.js", "Node.js"],
-  tools: ["Docker", "Git/GitHub", "Postman", "Tailwind CSS"],
-  ai:    ["OpenAI API", "Gemini API", "OCR Processing"],
-  status: "Open to Full-Stack Developer Opportunities 🚀"
-};
-```
+> ### 👤 Profile Overview
+> - 💼 **Role:** Full-Stack Engineer
+> - 🚀 **Core Stack:** MongoDB • Express.js • React.js • Node.js
+> - 🛠️ **DevOps & Tools:** Docker • Git/GitHub • Postman • Tailwind CSS
+> - 🤖 **AI Specialization:** OpenAI API • Gemini API • OCR Processing
+> - 🎯 **Career Status:** Open to Full-Stack Developer Opportunities 🚀
 
 ---
 
