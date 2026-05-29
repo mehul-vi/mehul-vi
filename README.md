@@ -171,12 +171,15 @@ I am a highly motivated **Full-Stack Developer** specializing in the MERN stack 
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mehul-vi&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=mehul-vi&theme=tokyonight" alt="Streak Stats" />
   
+  <img src="https://img.shields.io/github/repos/all/mehul-vi?label=Total%20Repositories&style=for-the-badge&logo=github&logoColor=white&color=0ea5e9&labelColor=181717" alt="Repositories" /> &nbsp;&nbsp;
+  <img src="https://img.shields.io/github/followers/mehul-vi?label=Followers&style=for-the-badge&logo=github&logoColor=white&color=0ea5e9&labelColor=181717" alt="Followers" /> &nbsp;&nbsp;
+  <img src="https://img.shields.io/github/stars/mehul-vi?label=Total%20Stars&style=for-the-badge&logo=github&logoColor=white&color=0ea5e9&labelColor=181717" alt="Stars" />
+
   <br/><br/>
-  
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehul-vi&layout=compact&theme=tokyonight" alt="Top Languages" />
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mehul-vi&theme=tokyonight&bg_color=0b0f19&color=0ea5e9&line=0ea5e9&point=ffffff&area=true&hide_border=true" width="100%" alt="Contribution Graph" />
+
 </div>
 
 ---
