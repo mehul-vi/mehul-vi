@@ -7,10 +7,16 @@
 
 <div align="center">
   
-  [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-mehul.site-0EA5E9?style=for-the-badge)](https://www.mehul.site)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mehul-kumar-sahu)
-  [![GitHub](https://img.shields.io/badge/GitHub-mehul--vi-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mehul-vi)
-  ![Profile Views](https://komarev.com/ghpvc/?username=mehul-vi&style=for-the-badge&color=0ea5e9)
+  <a href="https://www.mehul.site">
+    <img src="https://img.shields.io/badge/🌐_Portfolio-mehul.site-0EA5E9?style=for-the-badge" alt="Portfolio" />
+  </a>
+  <a href="https://linkedin.com/in/mehul-kumar-sahu">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/mehul-vi">
+    <img src="https://img.shields.io/badge/GitHub-mehul--vi-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=mehul-vi&style=for-the-badge&color=0ea5e9" alt="Profile Views" />
 
 </div>
 
@@ -35,40 +41,25 @@ const mehul = {
 ## 🛠️ Technical Expertise
 
 <div align="center">
-  <table border="0">
-    <tr>
-      <td align="center" width="20%"><strong>Languages</strong></td>
-      <td width="80%">
-        <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=js,py,java,c,cpp" alt="Languages" />
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="20%"><strong>Frontend</strong></td>
-      <td width="80%">
-        <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,bootstrap" alt="Frontend" />
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="20%"><strong>Backend & DB</strong></td>
-      <td width="80%">
-        <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" alt="Backend & Database" />
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="20%"><strong>Tools & DevOps</strong></td>
-      <td width="80%">
-        <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,npm" alt="Tools & DevOps" />
-        </a>
-      </td>
-    </tr>
-  </table>
+
+### **Languages**  
+<img src="https://skillicons.dev/icons?i=js,py,java,c,cpp" alt="Languages" />
+
+<br/>
+
+### **Frontend**  
+<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,bootstrap" alt="Frontend" />
+
+<br/>
+
+### **Backend & Database**  
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" alt="Backend & DB" />
+
+<br/>
+
+### **Tools & DevOps**  
+<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,npm" alt="Tools" />
+
 </div>
 
 ---
@@ -165,24 +156,14 @@ const mehul = {
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <table border="0">
-    <tr>
-      <td align="center" valign="top">
-        <img src="https://github-readme-stats.vercel.app/api?username=mehul-vi&show_icons=true&theme=tokyonight&border_radius=8" height="195px" alt="Mehul's GitHub Stats" />
-      </td>
-      <td align="center" valign="top">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=mehul-vi&theme=tokyonight&border_radius=8" height="195px" alt="Mehul's Streak Stats" />
-      </td>
-    </tr>
-    <tr>
-      <td align="center" valign="top" colspan="2">
-        <br/>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehul-vi&layout=compact&theme=tokyonight&border_radius=8" width="400px" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mehul-vi&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=mehul-vi&theme=tokyonight" alt="Streak Stats" />
   
-  <br/>
+  <br/><br/>
+  
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehul-vi&layout=compact&theme=tokyonight" alt="Top Languages" />
+  
+  <br/><br/>
   
   ### 🏆 Achievements
   <img src="https://github-profile-trophy.vercel.app/?username=mehul-vi&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
@@ -203,10 +184,18 @@ const mehul = {
 
 <div align="center">
   
-  [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mehulkumars315@gmail.com)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mehul-kumar-sahu)
-  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mehul-vi)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-0EA5E9?style=for-the-badge)](https://www.mehul.site)
+  <a href="mailto:mehulkumars315@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://linkedin.com/in/mehul-kumar-sahu">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/mehul-vi">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.mehul.site">
+    <img src="https://img.shields.io/badge/Portfolio-0EA5E9?style=for-the-badge" alt="Portfolio" />
+  </a>
 
 </div>
 
