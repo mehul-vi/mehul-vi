@@ -43,37 +43,37 @@ const mehul = {
 <div align="center">
 
 ### **Languages**  
-<img src="https://skillicons.dev/icons?i=js" height="24" valign="middle" /> <b>JavaScript</b> &nbsp;•&nbsp;
-<img src="https://skillicons.dev/icons?i=py" height="24" valign="middle" /> <b>Python</b> &nbsp;•&nbsp;
-<img src="https://skillicons.dev/icons?i=java" height="24" valign="middle" /> <b>Java</b> &nbsp;•&nbsp;
-<img src="https://skillicons.dev/icons?i=c" height="24" valign="middle" /> <b>C</b> &nbsp;•&nbsp;
-<img src="https://skillicons.dev/icons?i=cpp" height="24" valign="middle" /> <b>C++</b>
+<img src="https://skillicons.dev/icons?i=js" height="32" valign="middle" /> <b>JavaScript</b> &nbsp;•&nbsp;
+<img src="https://skillicons.dev/icons?i=py" height="32" valign="middle" /> <b>Python</b> &nbsp;•&nbsp;
+<img src="https://skillicons.dev/icons?i=java" height="32" valign="middle" /> <b>Java</b> &nbsp;•&nbsp;
+<img src="https://skillicons.dev/icons?i=c" height="32" valign="middle" /> <b>C</b> &nbsp;•&nbsp;
+<img src="https://skillicons.dev/icons?i=cpp" height="32" valign="middle" /> <b>C++</b>
 
 <br/>
 
 ### **Frontend**  
-<img src="https://skillicons.dev/icons?i=react" height="24" valign="middle" /> <b>React.js</b> &nbsp;•&nbsp;
-<img src="https://skillicons.dev/icons?i=html" height="24" valign="middle" /> <b>HTML5</b> &nbsp;•&nbsp;
-<img src="https://skillicons.dev/icons?i=css" height="24" valign="middle" /> <b>CSS3</b> &nbsp;•&nbsp;
-<img src="https://skillicons.dev/icons?i=tailwind" height="24" valign="middle" /> <b>Tailwind CSS</b> &nbsp;•&nbsp;
-<img src="https://skillicons.dev/icons?i=bootstrap" height="24" valign="middle" /> <b>Bootstrap</b>
+<img src="https://skillicons.dev/icons?i=react" height="32" valign="middle" /> <b>React.js</b> &nbsp;•&nbsp;
+<img src="https://skillicons.dev/icons?i=html" height="32" valign="middle" /> <b>HTML5</b> &nbsp;•&nbsp;
+<img src="https://skillicons.dev/icons?i=css" height="32" valign="middle" /> <b>CSS3</b> &nbsp;•&nbsp;
+<img src="https://skillicons.dev/icons?i=tailwind" height="32" valign="middle" /> <b>Tailwind CSS</b> &nbsp;•&nbsp;
+<img src="https://skillicons.dev/icons?i=bootstrap" height="32" valign="middle" /> <b>Bootstrap</b>
 
 <br/>
 
 ### **Backend & Database**  
-<img src="https://skillicons.dev/icons?i=nodejs" height="24" valign="middle" /> <b>Node.js</b> &nbsp;•&nbsp;
-<img src="https://skillicons.dev/icons?i=express" height="24" valign="middle" /> <b>Express.js</b> &nbsp;•&nbsp;
-<img src="https://skillicons.dev/icons?i=mongodb" height="24" valign="middle" /> <b>MongoDB</b>
+<img src="https://skillicons.dev/icons?i=nodejs" height="32" valign="middle" /> <b>Node.js</b> &nbsp;•&nbsp;
+<img src="https://skillicons.dev/icons?i=express" height="32" valign="middle" /> <b>Express.js</b> &nbsp;•&nbsp;
+<img src="https://skillicons.dev/icons?i=mongodb" height="32" valign="middle" /> <b>MongoDB</b>
 
 <br/>
 
 ### **Tools & DevOps**  
-<img src="https://skillicons.dev/icons?i=git" height="24" valign="middle" /> <b>Git</b> &nbsp;•&nbsp;
-<img src="https://skillicons.dev/icons?i=github" height="24" valign="middle" /> <b>GitHub</b> &nbsp;•&nbsp;
-<img src="https://skillicons.dev/icons?i=docker" height="24" valign="middle" /> <b>Docker</b> &nbsp;•&nbsp;
-<img src="https://skillicons.dev/icons?i=postman" height="24" valign="middle" /> <b>Postman</b> &nbsp;•&nbsp;
-<img src="https://skillicons.dev/icons?i=vscode" height="24" valign="middle" /> <b>VS Code</b> &nbsp;•&nbsp;
-<img src="https://skillicons.dev/icons?i=npm" height="24" valign="middle" /> <b>NPM</b>
+<img src="https://skillicons.dev/icons?i=git" height="32" valign="middle" /> <b>Git</b> &nbsp;•&nbsp;
+<img src="https://skillicons.dev/icons?i=github" height="32" valign="middle" /> <b>GitHub</b> &nbsp;•&nbsp;
+<img src="https://skillicons.dev/icons?i=docker" height="32" valign="middle" /> <b>Docker</b> &nbsp;•&nbsp;
+<img src="https://skillicons.dev/icons?i=postman" height="32" valign="middle" /> <b>Postman</b> &nbsp;•&nbsp;
+<img src="https://skillicons.dev/icons?i=vscode" height="32" valign="middle" /> <b>VS Code</b> &nbsp;•&nbsp;
+<img src="https://skillicons.dev/icons?i=npm" height="32" valign="middle" /> <b>NPM</b>
 
 </div>
 
