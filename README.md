@@ -16,135 +16,141 @@
 
 ---
 
-## ⚡ About Me
+## 💻 Mehul's Virtual Terminal  
+*Click on the commands below to interact with my shell and query my profile parameters.*
 
-I am a highly motivated and detail-oriented **Full-Stack Developer** specializing in the MERN stack and AI integrations. I am passionate about building robust, scalable, and user-centric web applications. With a strong foundation in modern frontend frameworks, backend API architectures, containerization, and artificial intelligence APIs, I bridge the gap between complex backend logic and clean, interactive frontend experiences.
-
-```javascript
-const mehul = {
-  role: "Full-Stack Engineer",
-  technologies: {
-    frontend: ["React.js", "JavaScript (ES6+)", "Tailwind CSS", "HTML5/CSS3", "Bootstrap"],
-    backend:  ["Node.js", "Express.js", "RESTful APIs", "JWT Auth"],
-    database: ["MongoDB", "Mongoose"],
-    devops:   ["Docker", "Git/GitHub", "NPM"],
-    ai:       ["OpenAI API", "Gemini API", "LLM Integration", "OCR Processing"]
-  },
-  currentFocus: "Architecting microservices & high-performance system designs",
-  status: "Open to Full-Stack Developer Opportunities 🚀"
-};
-```
-
----
-
-## 🛠️ Technical Expertise
-
-<div align="center">
-  <table border="0">
+<div align="left">
+  <table border="0" width="100%">
     <tr>
-      <td align="center" width="20%"><strong>Languages</strong></td>
-      <td width="80%">
-        <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=js,py,java,c,cpp" alt="Languages" />
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="20%"><strong>Frontend</strong></td>
-      <td width="80%">
-        <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,bootstrap" alt="Frontend" />
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="20%"><strong>Backend & DB</strong></td>
-      <td width="80%">
-        <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" alt="Backend & Database" />
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="20%"><strong>Tools & DevOps</strong></td>
-      <td width="80%">
-        <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,npm" alt="Tools & DevOps" />
-        </a>
+      <td>
+        <pre>
+<font color="#0EA5E9"><b>mehul-vi@github:~$</b></font> ./initialize_profile.sh
+Processing digital assets... Done.
+------------------------------------------------------------
+<b>NAME:</b>       Mehul Sahu
+<b>ROLE:</b>       Full-Stack Engineer
+<b>STACK:</b>      MongoDB | Express | React | Node (MERN) + AI APIs
+<b>STATUS:</b>     Active & Open to Opportunities 🚀
+------------------------------------------------------------
+Type or click one of the commands below to run:
+        </pre>
       </td>
     </tr>
   </table>
+
+  <!-- CLI Command 1: about -->
+  <details>
+    <summary>👉 Run: <code>mehul-vi --about</code></summary>
+    <br/>
+    <pre>
+<b>[SYSTEM INFO]</b>
+Full-Stack Developer focusing on clean architectures and rich user experiences.
+I specialized in MERN-based web applications, custom API pipelines, Docker containerization, 
+and integrating cognitive capabilities via OpenAI/Gemini APIs.
+    </pre>
+  </details>
+
+  <!-- CLI Command 2: skills -->
+  <details>
+    <summary>👉 Run: <code>mehul-vi --skills</code></summary>
+    <br/>
+    <pre>
+<b>[ENGINEERING MATRIX]</b>
+<b>Languages:</b>  JavaScript (ES6+), Python, Java, C, C++
+<b>Frontend:</b>   React.js, Tailwind CSS, HTML5, CSS3, Bootstrap
+<b>Backend:</b>    Node.js, Express.js, JWT, RESTful APIs, Mongoose
+<b>DevOps:</b>     Docker, Git, GitHub Actions, NPM, Postman
+<b>AI Models:</b>  OpenAI API, Gemini API, OCR Integration
+    </pre>
+  </details>
+
+  <!-- CLI Command 3: achievements -->
+  <details>
+    <summary>👉 Run: <code>mehul-vi --experience</code></summary>
+    <br/>
+    <pre>
+<b>[PROFESSIONAL HISTORY]</b>
+┌── <b>MERN Stack Development Intern</b> (B S Digital Technology)
+│   ├── Refactored E-Commerce architectures & improved page performance.
+│   ├── Built and exposed robust modular MVC RESTful APIs.
+│   └── Implemented secure stateless JWT authentication layers.
+│
+└── <b>Full Stack Development Intern</b> (Zager Digital Services)
+    ├── Crafted custom React components following mobile-first grids.
+    ├── Integrated frontend hooks with backend data layers.
+    └── Optimized system speed with React lazy-loading & split bundles.
+    </pre>
+  </details>
 </div>
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Interactive Project Directory  
+*Click a project directory below to inspect features and tech stacks.*
 
-Here is a curated selection of systems I've designed and built recently:
+<details>
+  <summary>📂 <code>/projects/enterprise-ecommerce</code> (Enterprise E-Commerce Platform)</summary>
+  <blockquote>
+    <strong>A secure, feature-rich E-Commerce ecosystem built to handle robust consumer workloads.</strong><br/><br/>
+    <ul>
+      <li><b>Tech Stack:</b> React.js, Node.js, Express.js, MongoDB, Tailwind CSS</li>
+      <li><b>Deliverables:</b> Engineered stateless JWT Auth, dynamic product search & filters, shopping cart, and a full-scale admin dashboard for real-time inventory management.</li>
+    </ul>
+  </blockquote>
+</details>
 
-### 🛒 **Enterprise E-Commerce Platform**  
-*A modern, feature-rich E-Commerce ecosystem built to handle robust consumer workloads.*  
+<details>
+  <summary>📂 <code>/projects/lumen-finance</code> (Lumen — AI Finance Tracker)</summary>
+  <blockquote>
+    <strong>An intelligent, automated personal financial management tool leveraging OCR and data analytics.</strong><br/><br/>
+    <ul>
+      <li><b>Tech Stack:</b> React.js, Node.js, Express.js, MongoDB, OCR Integration, JWT</li>
+      <li><b>Deliverables:</b> Integrated Optical Character Recognition (OCR) to extract receipt text automatically, built dashboard charts for expense analysis, and set budget alert notifications.</li>
+    </ul>
+  </blockquote>
+</details>
 
-* **Core Stack:** `React.js` | `Node.js` | `Express.js` | `MongoDB` | `Tailwind CSS`
-* **Key Deliverables & Architecture:**
-  * Engineered a fully secure, stateless **JWT-based Authentication** system with route guards and session management.
-  * Designed intuitive, state-driven user journeys including a dynamic cart system, checkout processes, and order tracking.
-  * Developed a structured **REST API** backend following MVC principles with clean error handling and API validation schemas.
-  * Implemented an advanced admin dashboard for product management, real-time inventory tracking, and sales insights.
+<details>
+  <summary>📂 <code>/projects/ai-code-reviewer</code> (AI-Powered Code Reviewer)</summary>
+  <blockquote>
+    <strong>A developer productivity tool that analyzes code patterns and suggests improvements in real-time.</strong><br/><br/>
+    <ul>
+      <li><b>Tech Stack:</b> React.js, Node.js, Express.js, OpenAI API, Tailwind CSS</li>
+      <li><b>Deliverables:</b> Implemented OpenAI engine to perform deep semantic code reviews, generated optimization scores, and created an interactive React code-editor interface.</li>
+    </ul>
+  </blockquote>
+</details>
 
----
-
-### 💰 **Lumen — AI Finance Tracker**  
-*An intelligent, automated personal financial management tool leveraging OCR and data analytics.*  
-
-* **Core Stack:** `React.js` | `Node.js` | `Express.js` | `MongoDB` | `OCR Integration` | `JWT`
-* **Key Deliverables & Architecture:**
-  * Integrated Optical Character Recognition (**OCR**) to extract receipt text and automatically categorize user expenses.
-  * Formulated interactive dashboard analytics using React chart libraries for real-time monthly budget tracking and analysis.
-  * Created robust budgeting alerts, secure data storage pipelines, and granular expense monitoring.
-
----
-
-### 🤖 **AI-Powered Code Reviewer**  
-*A developer productivity tool that analyzes code patterns and suggests improvements in real-time.*  
-
-* **Core Stack:** `React.js` | `Node.js` | `Express.js` | `OpenAI API` | `Tailwind CSS`
-* **Key Deliverables & Architecture:**
-  * Integrated **OpenAI API** to deliver deep semantic code reviews, performance optimization tips, and security vulnerability detection.
-  * Created an elegant, interactive React code-editor interface allowing seamless code input and beautifully rendered markdown analysis.
-  * Implemented secure user query histories and optimized API request throttling.
-
----
-
-### 🎨 **GenUI — AI Component Generator**  
-*A developer utility that generates production-ready, beautiful UI components via natural language instructions.*  
-
-* **Core Stack:** `React.js` | `Gemini API` | `Tailwind CSS` | `Live Sandbox`
-* **Key Deliverables & Architecture:**
-  * Leveraged **Gemini API** for high-speed, dynamic Tailwind CSS and React component code generation.
-  * Built an in-browser live-rendering sandbox enabling developers to preview generated components instantly.
-  * Integrated a seamless one-click **code export** system and utility tools to streamline frontend workflows.
-
----
-
-## 💼 Professional Experience
-
-### **MERN Stack Development Intern**  
-**B S Digital Technology**  
-* Developed, refactored, and maintained commercial E-Commerce architectures, improving server-side loading speed and UI responsiveness.
-* Designed and exposed modular, reusable RESTful API endpoints, optimizing database query operations and data latency.
-* Implemented secure user-session management strategies utilizing stateless JWT authentication protocols.
-* Managed relational schema definitions and MongoDB data collections using Mongoose models.
-* Automated API request validations and endpoint debugging workflows inside Postman environments.
+<details>
+  <summary>📂 <code>/projects/genui-component-generator</code> (GenUI — AI Component Generator)</summary>
+  <blockquote>
+    <strong>A utility that generates production-ready Tailwind CSS / React components via natural language.</strong><br/><br/>
+    <ul>
+      <li><b>Tech Stack:</b> React.js, Gemini API, Tailwind CSS, Live Sandbox</li>
+      <li><b>Deliverables:</b> Leveraged Gemini API for dynamic CSS rendering, built an in-browser live compiling sandbox, and added a quick one-click code exporter.</li>
+    </ul>
+  </blockquote>
+</details>
 
 ---
 
-### **Full Stack Development Intern**  
-**Zager Digital Services**  
-* Created modern, highly responsive, and cross-browser compatible application interfaces using React.js.
-* Styled custom UI components using Tailwind CSS following strict mobile-first design guides.
-* Seamlessly integrated backend endpoints and synchronized user interface states with backend databases.
-* Optimized performance benchmarks by modularizing codebase components and employing React lazy loading.
+## 🕹️ Take the 30-Second Dev Trivia!
+*Test your MERN knowledge by clicking an option below.*
+
+**Question: Which of the following is true about React state updates?**
+
+* <details>
+    <summary>A) They are synchronous and immediately mutate the state variable.</summary>
+    <blockquote>❌ <strong>Incorrect!</strong> React state updates are asynchronous and batched for performance. The state variable doesn't change immediately on the next line of code. Try again!</blockquote>
+  </details>
+* <details>
+    <summary>B) They are asynchronous and batched to optimize rendering performance.</summary>
+    <blockquote>🎉 <strong>Correct!</strong> React schedules a state update and re-renders the component asynchronously, batching multiple updates together to prevent unnecessary renders. Outstanding job!</blockquote>
+  </details>
+* <details>
+    <summary>C) They directly modify the DOM without scheduling a re-render.</summary>
+    <blockquote>❌ <strong>Incorrect!</strong> State updates schedule a component re-render, which updates the Virtual DOM, and then React updates the actual DOM in the commit phase. Try again!</blockquote>
+  </details>
 
 ---
 
@@ -179,9 +185,9 @@ Here is a curated selection of systems I've designed and built recently:
 ## 🎯 Future Trajectory & Focus
 
 * 💻 **Full-Stack Developer Role:** Actively searching for an impactful role to build resilient products.
-* 🏗️ **System Design & Architecture:** Deepening expertise in distributed systems, message queues, and microservices.
-* 🐳 **Cloud & DevOps Integration:** Enhancing deployment pipelines, orchestration using Docker/Kubernetes, and robust CI/CD implementation.
-* 🤖 **Next-Gen AI Products:** Exploring advanced LLM prompting, vector databases, and Retrieval-Augmented Generation (RAG).
+* 🏗️ **System Design:** Deepening expertise in distributed systems, message queues, and microservices.
+* 🐳 **Cloud & DevOps:** Enhancing deployment pipelines, Docker/Kubernetes orchestration, and CI/CD.
+* 🤖 **Next-Gen AI:** Exploring prompt engineering, vector databases, and RAG.
 
 ---
 
