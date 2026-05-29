@@ -177,11 +177,6 @@ I am a highly motivated **Full-Stack Developer** specializing in the MERN stack 
   <br/><br/>
   
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehul-vi&layout=compact&theme=tokyonight" alt="Top Languages" />
-  
-  <br/><br/>
-  
-  ### 🏆 Achievements
-  <img src="https://github-profile-trophy.vercel.app/?username=mehul-vi&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
 </div>
 
 ---
