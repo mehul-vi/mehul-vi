@@ -219,4 +219,7 @@ I am a highly motivated **Full-Stack Developer** specializing in the MERN stack 
 <div align="center">
   <h3>✨ Let's collaborate and build something extraordinary!</h3>
   <p>If you like my work, feel free to explore my repositories and drop a ⭐!</p>
+  
+  <br/>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=mehul-vi.mehul-vi&left_text=Profile%20Views&right_color=0ea5e9&style=flat" alt="Profile Views" />
 </div>
