@@ -12,7 +12,6 @@
   <a href="https://github.com/mehul-vi">
     <img src="https://img.shields.io/badge/GitHub-mehul--vi-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=mehul-vi.mehul-vi&left_text=Views&right_color=0ea5e9&style=for-the-badge" alt="Profile Views" />
 
 </div>
 
@@ -35,38 +34,46 @@ I am a highly motivated **Full-Stack Developer** specializing in the MERN stack 
 
 <div align="center">
 
-### **Languages**  
-<img src="https://skillicons.dev/icons?i=js" height="32" valign="middle" /> <b>JavaScript</b> &nbsp;•&nbsp;
-<img src="https://skillicons.dev/icons?i=py" height="32" valign="middle" /> <b>Python</b> &nbsp;•&nbsp;
-<img src="https://skillicons.dev/icons?i=java" height="32" valign="middle" /> <b>Java</b> &nbsp;•&nbsp;
-<img src="https://skillicons.dev/icons?i=c" height="32" valign="middle" /> <b>C</b> &nbsp;•&nbsp;
-<img src="https://skillicons.dev/icons?i=cpp" height="32" valign="middle" /> <b>C++</b>
+  <h3><b>Languages</b></h3>
+  <p>
+    <img src="https://skillicons.dev/icons?i=js" height="32" valign="middle" /> <b>JavaScript</b> &nbsp;•&nbsp;
+    <img src="https://skillicons.dev/icons?i=py" height="32" valign="middle" /> <b>Python</b> &nbsp;•&nbsp;
+    <img src="https://skillicons.dev/icons?i=java" height="32" valign="middle" /> <b>Java</b> &nbsp;•&nbsp;
+    <img src="https://skillicons.dev/icons?i=c" height="32" valign="middle" /> <b>C</b> &nbsp;•&nbsp;
+    <img src="https://skillicons.dev/icons?i=cpp" height="32" valign="middle" /> <b>C++</b>
+  </p>
 
-<br/>
+  <br/>
 
-### **Frontend**  
-<img src="https://skillicons.dev/icons?i=react" height="32" valign="middle" /> <b>React.js</b> &nbsp;•&nbsp;
-<img src="https://skillicons.dev/icons?i=html" height="32" valign="middle" /> <b>HTML5</b> &nbsp;•&nbsp;
-<img src="https://skillicons.dev/icons?i=css" height="32" valign="middle" /> <b>CSS3</b> &nbsp;•&nbsp;
-<img src="https://skillicons.dev/icons?i=tailwind" height="32" valign="middle" /> <b>Tailwind CSS</b> &nbsp;•&nbsp;
-<img src="https://skillicons.dev/icons?i=bootstrap" height="32" valign="middle" /> <b>Bootstrap</b>
+  <h3><b>Frontend</b></h3>
+  <p>
+    <img src="https://skillicons.dev/icons?i=react" height="32" valign="middle" /> <b>React.js</b> &nbsp;•&nbsp;
+    <img src="https://skillicons.dev/icons?i=html" height="32" valign="middle" /> <b>HTML5</b> &nbsp;•&nbsp;
+    <img src="https://skillicons.dev/icons?i=css" height="32" valign="middle" /> <b>CSS3</b> &nbsp;•&nbsp;
+    <img src="https://skillicons.dev/icons?i=tailwind" height="32" valign="middle" /> <b>Tailwind CSS</b> &nbsp;•&nbsp;
+    <img src="https://skillicons.dev/icons?i=bootstrap" height="32" valign="middle" /> <b>Bootstrap</b>
+  </p>
 
-<br/>
+  <br/>
 
-### **Backend & Database**  
-<img src="https://skillicons.dev/icons?i=nodejs" height="32" valign="middle" /> <b>Node.js</b> &nbsp;•&nbsp;
-<img src="https://skillicons.dev/icons?i=express" height="32" valign="middle" /> <b>Express.js</b> &nbsp;•&nbsp;
-<img src="https://skillicons.dev/icons?i=mongodb" height="32" valign="middle" /> <b>MongoDB</b>
+  <h3><b>Backend & Database</b></h3>
+  <p>
+    <img src="https://skillicons.dev/icons?i=nodejs" height="32" valign="middle" /> <b>Node.js</b> &nbsp;•&nbsp;
+    <img src="https://skillicons.dev/icons?i=express" height="32" valign="middle" /> <b>Express.js</b> &nbsp;•&nbsp;
+    <img src="https://skillicons.dev/icons?i=mongodb" height="32" valign="middle" /> <b>MongoDB</b>
+  </p>
 
-<br/>
+  <br/>
 
-### **Tools & DevOps**  
-<img src="https://skillicons.dev/icons?i=git" height="32" valign="middle" /> <b>Git</b> &nbsp;•&nbsp;
-<img src="https://skillicons.dev/icons?i=github" height="32" valign="middle" /> <b>GitHub</b> &nbsp;•&nbsp;
-<img src="https://skillicons.dev/icons?i=docker" height="32" valign="middle" /> <b>Docker</b> &nbsp;•&nbsp;
-<img src="https://skillicons.dev/icons?i=postman" height="32" valign="middle" /> <b>Postman</b> &nbsp;•&nbsp;
-<img src="https://skillicons.dev/icons?i=vscode" height="32" valign="middle" /> <b>VS Code</b> &nbsp;•&nbsp;
-<img src="https://skillicons.dev/icons?i=npm" height="32" valign="middle" /> <b>NPM</b>
+  <h3><b>Tools & DevOps</b></h3>
+  <p>
+    <img src="https://skillicons.dev/icons?i=git" height="32" valign="middle" /> <b>Git</b> &nbsp;•&nbsp;
+    <img src="https://skillicons.dev/icons?i=github" height="32" valign="middle" /> <b>GitHub</b> &nbsp;•&nbsp;
+    <img src="https://skillicons.dev/icons?i=docker" height="32" valign="middle" /> <b>Docker</b> &nbsp;•&nbsp;
+    <img src="https://skillicons.dev/icons?i=postman" height="32" valign="middle" /> <b>Postman</b> &nbsp;•&nbsp;
+    <img src="https://skillicons.dev/icons?i=vscode" height="32" valign="middle" /> <b>VS Code</b> &nbsp;•&nbsp;
+    <img src="https://skillicons.dev/icons?i=npm" height="32" valign="middle" /> <b>NPM</b>
+  </p>
 
 </div>
 
