@@ -2,7 +2,7 @@
 ### **Full-Stack Developer | MERN Stack Specialist | AI & LLM Integrations**
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=24&pause=1000&color=0EA5E9&center=true&vCenter=true&width=800&lines=Full+Stack+MERN+Developer;Building+Scalable+Web+Applications;AI-Powered+Application+Developer;Open+To+Work+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=0EA5E9&center=true&vCenter=true&width=800&lines=Full+Stack+MERN+Developer;Building+Scalable+Web+Applications;AI-Powered+Application+Developer;Open+To+Work+🚀" alt="Typing SVG" />
 </div>
 
 <div align="center">
