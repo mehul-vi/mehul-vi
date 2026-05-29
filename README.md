@@ -1,92 +1,113 @@
+# Hi 👋 I'm Mehul Sahu
+
 <div align="center">
 
-# Hey 👋, I'm Mehul Sahu
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=34&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;MERN+Stack+Developer;Building+Scalable+Web+Applications;AI+Powered+Application+Developer;Open+To+Work+🚀" alt="Typing SVG" />
 
-### 🚀 Full Stack Developer | MERN Stack | AI Integration | Docker
+<br/>
 
-<p>
-Building scalable web applications with React, Node.js, Express, MongoDB and AI-powered solutions.
-</p>
-
-<p>
 <a href="https://www.mehul.site">
-<img src="https://img.shields.io/badge/Portfolio-Visit%20Now-blue?style=for-the-badge&logo=google-chrome">
-</a>
-
-<a href="https://github.com/mehul-vi">
-<img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github">
+<img src="https://img.shields.io/badge/🌐_Portfolio-mehul.site-0EA5E9?style=for-the-badge" />
 </a>
 
 <a href="https://linkedin.com/in/mehul-kumar-sahu">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-</p>
+
+<a href="https://github.com/mehul-vi">
+<img src="https://img.shields.io/badge/GitHub-mehul--vi-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=mehul-vi&style=for-the-badge&color=0ea5e9" />
 
 </div>
 
 ---
 
-# 💫 About Me
+# 🚀 About Me
 
-🔭 Building Full Stack MERN Applications
+```javascript
+const mehul = {
+    role: "Full Stack Developer",
+    
+    frontend: [
+        "React.js",
+        "HTML",
+        "CSS",
+        "Tailwind CSS",
+        "Bootstrap"
+    ],
+    
+    backend: [
+        "Node.js",
+        "Express.js",
+        "REST APIs"
+    ],
+    
+    database: [
+        "MongoDB"
+    ],
+    
+    tools: [
+        "Docker",
+        "Git",
+        "GitHub",
+        "Postman"
+    ],
+    
+    ai: [
+        "OpenAI",
+        "Gemini",
+        "LLM Integration",
+        "OCR Integration"
+    ],
+    
+    currentFocus: [
+        "Backend Development",
+        "System Design",
+        "Scalable Applications"
+    ],
+    
+    status: "Open To Work 🚀"
+};
+```
 
-⚡ Creating AI-Powered Products
+### 💫 What I Do
 
-🛠️ Developing REST APIs & Backend Systems
-
-🔐 Working with JWT Authentication & Secure Applications
-
-🐳 Using Docker for Containerized Development
-
-🤖 Exploring AI, LLMs, OCR & Automation
-
-🌍 Portfolio: **https://www.mehul.site**
-
-📫 Email: **mehulkumars315@gmail.com**
+* 🚀 Build Full Stack MERN Applications
+* 🔐 Develop Secure Authentication Systems
+* 🛠 Design RESTful APIs
+* 🤖 Integrate AI & LLM Solutions
+* 🐳 Containerize Applications Using Docker
+* 📈 Create Scalable Web Platforms
 
 ---
 
 # 🛠 Tech Stack
 
+<div align="center">
+
 ### Frontend
 
-<p>
 <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap" />
-</p>
 
 ### Backend
 
-<p>
 <img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
 
 ### Database
 
-<p>
 <img src="https://skillicons.dev/icons?i=mongodb" />
-</p>
 
-### Programming Languages
+### Languages
 
-<p>
 <img src="https://skillicons.dev/icons?i=javascript,python,java,c,cpp" />
-</p>
 
 ### Tools
 
-<p>
 <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,npm" />
-</p>
 
-### AI & GenAI
-
-<p>
-<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LLM_Integration-black?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/OCR_Integration-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/JWT_Authentication-green?style=for-the-badge"/>
-</p>
+</div>
 
 ---
 
@@ -94,82 +115,96 @@ Building scalable web applications with React, Node.js, Express, MongoDB and AI-
 
 ## 🛒 E-Commerce Platform
 
-Full Stack E-Commerce Application built using MERN Stack.
+Modern Full Stack E-Commerce Platform built using MERN Stack.
 
 ### Features
-- Authentication & Authorization
-- Product Management
-- Cart Functionality
-- Order Management
-- Responsive UI
-- REST APIs
+
+* User Authentication
+* Product Management
+* Shopping Cart
+* Order Tracking
+* Responsive UI
+* REST APIs
+* Secure Backend
 
 ---
 
 ## 💰 Lumen - Finance Tracker
 
-Finance tracking platform with analytics and OCR-based receipt scanning.
+AI-powered Finance Management Application.
 
 ### Features
 
-- Expense Management
-- Dashboard Analytics
-- OCR Receipt Scanning
-- Budget Tracking
-- JWT Authentication
-- MongoDB Integration
+* Expense Tracking
+* Income Management
+* Dashboard Analytics
+* Budget Monitoring
+* OCR Receipt Scanning
+* JWT Authentication
 
 ---
 
 ## 🤖 AI Code Reviewer
 
-AI-powered code review platform built with OpenAI APIs.
+AI-powered code review platform.
 
 ### Features
 
-- AI Code Analysis
-- Code Suggestions
-- Secure Authentication
-- REST API Architecture
-- Modern UI
+* AI Code Analysis
+* OpenAI Integration
+* Authentication System
+* Secure REST APIs
+* Modern React UI
 
 ---
 
 ## 🎨 GenUI - AI Component Generator
 
-Generate UI Components using AI and Gemini API.
+Generate UI Components with AI.
 
 ### Features
 
-- Real-Time Preview
-- Code Generation
-- Tailwind Support
-- Component Export
-- AI Powered Workflow
+* Gemini API Integration
+* Component Generation
+* Tailwind Support
+* Live Preview
+* Code Export
 
 ---
 
 # 💼 Experience
 
-### MERN Stack Development Intern
-**B S Digital Technology**
+## MERN Stack Development Intern
 
-- Built and enhanced E-Commerce applications
-- Developed REST APIs
-- Implemented JWT Authentication
-- MongoDB Database Integration
-- API Testing with Postman
+### B S Digital Technology
+
+* Developed and enhanced E-Commerce applications
+* Built REST APIs
+* Implemented JWT Authentication
+* Integrated MongoDB
+* API Testing with Postman
 
 ---
 
-### Full Stack Development Intern
-**Zager Digital Services**
+## Full Stack Development Intern
 
-- Built Responsive Web Applications
-- React & Tailwind Development
-- Backend API Integration
-- Performance Optimization
-- Cross-Device Compatibility
+### Zager Digital Services
+
+* Developed Responsive Applications
+* React.js Development
+* Tailwind CSS Implementation
+* Backend API Integration
+* Performance Optimization
+
+---
+
+# 🏆 GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=mehul-vi&theme=tokyonight&no-frame=true&row=1&column=7" />
+
+</div>
 
 ---
 
@@ -177,19 +212,32 @@ Generate UI Components using AI and Gemini API.
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=mehul-vi&show_icons=true&theme=tokyonight"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=mehul-vi&show_icons=true&theme=tokyonight" />
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehul-vi&layout=compact&theme=tokyonight"/>
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=mehul-vi&theme=tokyonight" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mehul-vi&theme=tokyonight"/>
+<br/>
+
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehul-vi&layout=compact&theme=tokyonight" />
 
 </div>
 
 ---
 
+# 🌟 Current Goals
+
+* 🚀 Secure a Full Stack Developer Role
+* 📚 Improve System Design Knowledge
+* 🐳 Master Docker & Deployment
+* 🤖 Build More AI-Powered Products
+* 📈 Scale Production Applications
+
+---
+
 # 🌐 Connect With Me
 
-<p align="left">
+<div align="center">
+
 <a href="mailto:mehulkumars315@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
@@ -201,14 +249,19 @@ Generate UI Components using AI and Gemini API.
 <a href="https://github.com/mehul-vi">
 <img src="https://skillicons.dev/icons?i=github" />
 </a>
-</p>
+
+<a href="https://www.mehul.site">
+<img src="https://img.shields.io/badge/Portfolio-Visit-0EA5E9?style=for-the-badge" />
+</a>
+
+</div>
 
 ---
 
 <div align="center">
 
-### 🚀 Open To Full Stack Developer Opportunities
+## 🚀 Open To Full Stack Developer Opportunities
 
-⭐ If you like my work, consider following my journey.
+### If you like my work, consider giving a ⭐ to my repositories.
 
 </div>
