@@ -12,7 +12,7 @@
   <a href="https://github.com/mehul-vi">
     <img src="https://img.shields.io/badge/GitHub-mehul--vi-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=mehul-vi&style=for-the-badge&color=0ea5e9" alt="Profile Views" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=mehul-vi.mehul-vi&left_text=Views&right_color=0ea5e9&style=for-the-badge" alt="Profile Views" />
 
 </div>
 
