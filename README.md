@@ -16,72 +16,80 @@
 
 ---
 
-## 💻 Mehul's Virtual Terminal  
-*Click on the commands below to interact with my shell and query my profile parameters.*
+## ⚡ About Me
 
-<div align="left">
-  <table border="0" width="100%">
+I am a highly motivated **Full-Stack Developer** specializing in the MERN stack and AI integrations. I bridge the gap between complex backend architectures and clean, interactive frontend experiences, focusing on building high-performance, containerized web applications.
+
+```javascript
+const mehul = {
+  role: "Full-Stack Engineer",
+  stack: ["MongoDB", "Express.js", "React.js", "Node.js"],
+  tools: ["Docker", "Git/GitHub", "Postman", "Tailwind CSS"],
+  ai:    ["OpenAI API", "Gemini API", "OCR Processing"],
+  status: "Open to Full-Stack Developer Opportunities 🚀"
+};
+```
+
+---
+
+## 🛠️ Technical Expertise
+
+<div align="center">
+  <table border="0">
     <tr>
-      <td>
-        <pre>
-<font color="#0EA5E9"><b>mehul-vi@github:~$</b></font> ./initialize_profile.sh
-Processing digital assets... Done.
-------------------------------------------------------------
-<b>NAME:</b>       Mehul Sahu
-<b>ROLE:</b>       Full-Stack Engineer
-<b>STACK:</b>      MongoDB | Express | React | Node (MERN) + AI APIs
-<b>STATUS:</b>     Active & Open to Opportunities 🚀
-------------------------------------------------------------
-Type or click one of the commands below to run:
-        </pre>
+      <td align="center" width="20%"><strong>Languages</strong></td>
+      <td width="80%">
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=js,py,java,c,cpp" alt="Languages" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="20%"><strong>Frontend</strong></td>
+      <td width="80%">
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,bootstrap" alt="Frontend" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="20%"><strong>Backend & DB</strong></td>
+      <td width="80%">
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" alt="Backend & Database" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="20%"><strong>Tools & DevOps</strong></td>
+      <td width="80%">
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,npm" alt="Tools & DevOps" />
+        </a>
       </td>
     </tr>
   </table>
-
-  <!-- CLI Command 1: about -->
-  <details>
-    <summary>👉 Run: <code>mehul-vi --about</code></summary>
-    <br/>
-    <pre>
-<b>[SYSTEM INFO]</b>
-Full-Stack Developer focusing on clean architectures and rich user experiences.
-I specialized in MERN-based web applications, custom API pipelines, Docker containerization, 
-and integrating cognitive capabilities via OpenAI/Gemini APIs.
-    </pre>
-  </details>
-
-  <!-- CLI Command 2: skills -->
-  <details>
-    <summary>👉 Run: <code>mehul-vi --skills</code></summary>
-    <br/>
-    <pre>
-<b>[ENGINEERING MATRIX]</b>
-<b>Languages:</b>  JavaScript (ES6+), Python, Java, C, C++
-<b>Frontend:</b>   React.js, Tailwind CSS, HTML5, CSS3, Bootstrap
-<b>Backend:</b>    Node.js, Express.js, JWT, RESTful APIs, Mongoose
-<b>DevOps:</b>     Docker, Git, GitHub Actions, NPM, Postman
-<b>AI Models:</b>  OpenAI API, Gemini API, OCR Integration
-    </pre>
-  </details>
-
-  <!-- CLI Command 3: achievements -->
-  <details>
-    <summary>👉 Run: <code>mehul-vi --experience</code></summary>
-    <br/>
-    <pre>
-<b>[PROFESSIONAL HISTORY]</b>
-┌── <b>MERN Stack Development Intern</b> (B S Digital Technology)
-│   ├── Refactored E-Commerce architectures & improved page performance.
-│   ├── Built and exposed robust modular MVC RESTful APIs.
-│   └── Implemented secure stateless JWT authentication layers.
-│
-└── <b>Full Stack Development Intern</b> (Zager Digital Services)
-    ├── Crafted custom React components following mobile-first grids.
-    ├── Integrated frontend hooks with backend data layers.
-    └── Optimized system speed with React lazy-loading & split bundles.
-    </pre>
-  </details>
 </div>
+
+---
+
+## 💼 Professional Experience
+
+### **MERN Stack Development Intern**  
+**B S Digital Technology**  
+* Refactored commercial E-Commerce architectures, improving server-side loading speed and UI responsiveness.
+* Designed modular MVC RESTful API endpoints, optimizing database queries and data latency.
+* Implemented secure user-session management utilizing stateless JWT authentication protocols.
+* Managed relational schema definitions and MongoDB data collections using Mongoose models.
+
+---
+
+### **Full Stack Development Intern**  
+**Zager Digital Services**  
+* Created highly responsive, cross-browser compatible application interfaces using React.js.
+* Styled custom UI components using Tailwind CSS following strict mobile-first design guides.
+* Seamlessly integrated backend endpoints and synchronized user interface states.
+* Optimized system performance using React lazy loading and code splitting.
 
 ---
 
