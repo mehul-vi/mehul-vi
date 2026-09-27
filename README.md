@@ -63,22 +63,6 @@ Full-Stack Developer specializing in the **MERN stack** and **AI integrations**.
 
 ---
 
-## 🚀 Projects
-
-**[Lumen](https://lumen-green-one.vercel.app/)** — AI Finance Tracker
-> MERN stack personal finance tool with OCR receipt scanning and AI-driven budgeting insights.
-> `React` `Node.js` `MongoDB` `OCR` `JWT`
-
-**[AI Code Reviewer](https://review-mu-eight.vercel.app/)** — AI-Powered Code Reviewer
-> Developer productivity tool that analyzes code patterns and suggests real-time improvements.
-> `React` `Node.js` `OpenAI API` `Tailwind`
-
-**[GenUI](https://component-generator-ai-ashen.vercel.app/)** — AI Component Generator
-> Generates production-ready React + Tailwind components via natural language prompts.
-> `React` `Gemini API` `Tailwind` `Live Sandbox`
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
