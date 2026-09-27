@@ -1,223 +1,122 @@
-# Hi 👋 I'm Mehul Sahu  
-### **Full-Stack Developer | MERN Stack Specialist | AI & LLM Integrations**
+# Hi 👋 I'm Mehul Sahu
+### Full-Stack Developer • MERN Stack • AI Integrations
 
 <div align="center">
-  
-  <a href="https://www.mehul.site">
-    <img src="https://img.shields.io/badge/🌐_Portfolio-mehul.site-0EA5E9?style=for-the-badge" alt="Portfolio" />
-  </a>
-  <a href="https://linkedin.com/in/mehul-kumar-sahu">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/mehul-vi">
-    <img src="https://img.shields.io/badge/GitHub-mehul--vi-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-mehul.site-0EA5E9?style=for-the-badge)](https://www.mehul.site)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mehul-kumar-sahu)
+[![GitHub](https://img.shields.io/badge/GitHub-mehul--vi-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mehul-vi)
 
 </div>
 
 ---
 
-## ⚡ About Me
+## ⚡ About
 
-I am a highly motivated **Full-Stack Developer** specializing in the MERN stack and AI integrations. I bridge the gap between complex backend architectures and clean, interactive frontend experiences, focusing on building high-performance, containerized web applications.
+Full-Stack Developer specializing in the **MERN stack** and **AI integrations**. I build high-performance, containerized web applications — bridging complex backend architectures with clean, interactive frontends.
 
-> ### 👤 Profile Overview
-> - 💼 **Role:** Full-Stack Engineer
-> - 🚀 **Core Stack:** MongoDB • Express.js • React.js • Node.js
-> - 🛠️ **DevOps & Tools:** Docker • Git/GitHub • Postman • Tailwind CSS
-> - 🤖 **AI Specialization:** OpenAI API • Gemini API • OCR Processing
-> - 🎯 **Career Status:** Open to Full-Stack Developer Opportunities 🚀
+- 💼 **Role:** Full-Stack Engineer
+- 🚀 **Core Stack:** MongoDB • Express.js • React.js • Node.js
+- 🛠️ **Tools:** Docker • Git • Postman • Tailwind CSS
+- 🤖 **AI:** OpenAI API • Gemini API • OCR Processing
+- 🎯 **Status:** Open to Full-Stack opportunities
 
 ---
 
-## 🛠️ Technical Expertise
+## 🛠️ Tech Stack
+
+**Languages**
+<p>
+<img src="https://skillicons.dev/icons?i=js,py,java,c,cpp" height="40" />
+</p>
+
+**Frontend**
+<p>
+<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,bootstrap" height="40" />
+</p>
+
+**Backend & Database**
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" height="40" />
+</p>
+
+**DevOps & Tools**
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,npm" height="40" />
+</p>
+
+---
+
+## 💼 Experience
+
+**MERN Stack Development Intern** — *B S Digital Technology*
+- Refactored commercial E-Commerce architectures for faster server-side loading and UI responsiveness.
+- Built modular MVC RESTful APIs with optimized database queries.
+- Implemented stateless JWT authentication protocols.
+- Designed MongoDB schemas using Mongoose models.
+
+**Full Stack Development Intern** — *Zager Digital Services*
+- Built responsive, cross-browser compatible React interfaces.
+- Styled custom UI components with Tailwind CSS (mobile-first).
+- Integrated backend endpoints and synced UI states.
+- Optimized performance with lazy loading and code splitting.
+
+---
+
+## 🚀 Projects
+
+**[Lumen](https://lumen-green-one.vercel.app/)** — AI Finance Tracker
+> MERN stack personal finance tool with OCR receipt scanning and AI-driven budgeting insights.
+> `React` `Node.js` `MongoDB` `OCR` `JWT`
+
+**[AI Code Reviewer](https://review-mu-eight.vercel.app/)** — AI-Powered Code Reviewer
+> Developer productivity tool that analyzes code patterns and suggests real-time improvements.
+> `React` `Node.js` `OpenAI API` `Tailwind`
+
+**[GenUI](https://component-generator-ai-ashen.vercel.app/)** — AI Component Generator
+> Generates production-ready React + Tailwind components via natural language prompts.
+> `React` `Gemini API` `Tailwind` `Live Sandbox`
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
 
-  <h3><b>Languages</b></h3>
-  <p>
-    <img src="https://skillicons.dev/icons?i=js" height="32" valign="middle" /> <b>JavaScript</b> &nbsp;•&nbsp;
-    <img src="https://skillicons.dev/icons?i=py" height="32" valign="middle" /> <b>Python</b> &nbsp;•&nbsp;
-    <img src="https://skillicons.dev/icons?i=java" height="32" valign="middle" /> <b>Java</b> &nbsp;•&nbsp;
-    <img src="https://skillicons.dev/icons?i=c" height="32" valign="middle" /> <b>C</b> &nbsp;•&nbsp;
-    <img src="https://skillicons.dev/icons?i=cpp" height="32" valign="middle" /> <b>C++</b>
-  </p>
+<img src="https://img.shields.io/github/followers/mehul-vi?label=Followers&style=for-the-badge&logo=github&logoColor=white&color=0ea5e9&labelColor=181717" />
+<img src="https://img.shields.io/github/stars/mehul-vi?label=Stars&style=for-the-badge&logo=github&logoColor=white&color=0ea5e9&labelColor=181717" />
 
-  <br/>
+<br/><br/>
 
-  <h3><b>Frontend</b></h3>
-  <p>
-    <img src="https://skillicons.dev/icons?i=react" height="32" valign="middle" /> <b>React.js</b> &nbsp;•&nbsp;
-    <img src="https://skillicons.dev/icons?i=html" height="32" valign="middle" /> <b>HTML5</b> &nbsp;•&nbsp;
-    <img src="https://skillicons.dev/icons?i=css" height="32" valign="middle" /> <b>CSS3</b> &nbsp;•&nbsp;
-    <img src="https://skillicons.dev/icons?i=tailwind" height="32" valign="middle" /> <b>Tailwind CSS</b> &nbsp;•&nbsp;
-    <img src="https://skillicons.dev/icons?i=bootstrap" height="32" valign="middle" /> <b>Bootstrap</b>
-  </p>
-
-  <br/>
-
-  <h3><b>Backend & Database</b></h3>
-  <p>
-    <img src="https://skillicons.dev/icons?i=nodejs" height="32" valign="middle" /> <b>Node.js</b> &nbsp;•&nbsp;
-    <img src="https://skillicons.dev/icons?i=express" height="32" valign="middle" /> <b>Express.js</b> &nbsp;•&nbsp;
-    <img src="https://skillicons.dev/icons?i=mongodb" height="32" valign="middle" /> <b>MongoDB</b>
-  </p>
-
-  <br/>
-
-  <h3><b>Tools & DevOps</b></h3>
-  <p>
-    <img src="https://skillicons.dev/icons?i=git" height="32" valign="middle" /> <b>Git</b> &nbsp;•&nbsp;
-    <img src="https://skillicons.dev/icons?i=github" height="32" valign="middle" /> <b>GitHub</b> &nbsp;•&nbsp;
-    <img src="https://skillicons.dev/icons?i=docker" height="32" valign="middle" /> <b>Docker</b> &nbsp;•&nbsp;
-    <img src="https://skillicons.dev/icons?i=postman" height="32" valign="middle" /> <b>Postman</b> &nbsp;•&nbsp;
-    <img src="https://skillicons.dev/icons?i=vscode" height="32" valign="middle" /> <b>VS Code</b> &nbsp;•&nbsp;
-    <img src="https://skillicons.dev/icons?i=npm" height="32" valign="middle" /> <b>NPM</b>
-  </p>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mehul-vi&theme=tokyonight&bg_color=0b0f19&color=0ea5e9&line=0ea5e9&point=ffffff&area=true&hide_border=true" width="100%" />
 
 </div>
 
 ---
 
-## 💼 Professional Experience
+## 🎯 Currently Exploring
 
-### **MERN Stack Development Intern**  
-**B S Digital Technology**  
-* Refactored commercial E-Commerce architectures, improving server-side loading speed and UI responsiveness.
-* Designed modular MVC RESTful API endpoints, optimizing database queries and data latency.
-* Implemented secure user-session management utilizing stateless JWT authentication protocols.
-* Managed relational schema definitions and MongoDB data collections using Mongoose models.
+- **System Design** — distributed systems, microservices
+- **Cloud & DevOps** — Docker, CI/CD pipelines
+- **Next-Gen AI** — prompt engineering, vector databases, RAG
 
 ---
 
-### **Full Stack Development Intern**  
-**Zager Digital Services**  
-* Created highly responsive, cross-browser compatible application interfaces using React.js.
-* Styled custom UI components using Tailwind CSS following strict mobile-first design guides.
-* Seamlessly integrated backend endpoints and synchronized user interface states.
-* Optimized system performance using React lazy loading and code splitting.
-
----
-
-## 🚀 Interactive Project Directory  
-*Click a project directory below to inspect features and tech stacks.*
-
-<details>
-  <summary>📂 <code>/projects/enterprise-ecommerce</code> (Enterprise E-Commerce Platform)</summary>
-  <blockquote>
-    <strong>A secure, feature-rich E-Commerce ecosystem built to handle robust consumer workloads.</strong><br/><br/>
-    <ul>
-      <li><b>Tech Stack:</b> React.js, Node.js, Express.js, MongoDB, Tailwind CSS</li>
-      <li><b>Deliverables:</b> Engineered stateless JWT Auth, dynamic product search & filters, shopping cart, and a full-scale admin dashboard for real-time inventory management.</li>
-    </ul>
-  </blockquote>
-</details>
-
-<details>
-  <summary>📂 <code>/projects/lumen-finance</code> (Lumen — AI Finance Tracker)</summary>
-  <blockquote>
-    <strong>An intelligent, automated personal financial management tool leveraging OCR and data analytics.</strong><br/><br/>
-    <ul>
-      <li><b>Tech Stack:</b> React.js, Node.js, Express.js, MongoDB, OCR Integration, JWT</li>
-      <li><b>Deliverables:</b> Integrated Optical Character Recognition (OCR) to extract receipt text automatically, built dashboard charts for expense analysis, and set budget alert notifications.</li>
-    </ul>
-  </blockquote>
-</details>
-
-<details>
-  <summary>📂 <code>/projects/ai-code-reviewer</code> (AI-Powered Code Reviewer)</summary>
-  <blockquote>
-    <strong>A developer productivity tool that analyzes code patterns and suggests improvements in real-time.</strong><br/><br/>
-    <ul>
-      <li><b>Tech Stack:</b> React.js, Node.js, Express.js, OpenAI API, Tailwind CSS</li>
-      <li><b>Deliverables:</b> Implemented OpenAI engine to perform deep semantic code reviews, generated optimization scores, and created an interactive React code-editor interface.</li>
-    </ul>
-  </blockquote>
-</details>
-
-<details>
-  <summary>📂 <code>/projects/genui-component-generator</code> (GenUI — AI Component Generator)</summary>
-  <blockquote>
-    <strong>A utility that generates production-ready Tailwind CSS / React components via natural language.</strong><br/><br/>
-    <ul>
-      <li><b>Tech Stack:</b> React.js, Gemini API, Tailwind CSS, Live Sandbox</li>
-      <li><b>Deliverables:</b> Leveraged Gemini API for dynamic CSS rendering, built an in-browser live compiling sandbox, and added a quick one-click code exporter.</li>
-    </ul>
-  </blockquote>
-</details>
-
----
-
-## 🕹️ Take the 30-Second Dev Trivia!
-*Test your MERN knowledge by clicking an option below.*
-
-**Question: Which of the following is true about React state updates?**
-
-* <details>
-    <summary>A) They are synchronous and immediately mutate the state variable.</summary>
-    <blockquote>❌ <strong>Incorrect!</strong> React state updates are asynchronous and batched for performance. The state variable doesn't change immediately on the next line of code. Try again!</blockquote>
-  </details>
-* <details>
-    <summary>B) They are asynchronous and batched to optimize rendering performance.</summary>
-    <blockquote>🎉 <strong>Correct!</strong> React schedules a state update and re-renders the component asynchronously, batching multiple updates together to prevent unnecessary renders. Outstanding job!</blockquote>
-  </details>
-* <details>
-    <summary>C) They directly modify the DOM without scheduling a re-render.</summary>
-    <blockquote>❌ <strong>Incorrect!</strong> State updates schedule a component re-render, which updates the Virtual DOM, and then React updates the actual DOM in the commit phase. Try again!</blockquote>
-  </details>
-
----
-
-## 📊 GitHub Analytics
+## 🌐 Connect
 
 <div align="center">
-  
-  <img src="https://img.shields.io/github/repos/all/mehul-vi?label=Total%20Repositories&style=for-the-badge&logo=github&logoColor=white&color=0ea5e9&labelColor=181717" alt="Repositories" /> &nbsp;&nbsp;
-  <img src="https://img.shields.io/github/followers/mehul-vi?label=Followers&style=for-the-badge&logo=github&logoColor=white&color=0ea5e9&labelColor=181717" alt="Followers" /> &nbsp;&nbsp;
-  <img src="https://img.shields.io/github/stars/mehul-vi?label=Total%20Stars&style=for-the-badge&logo=github&logoColor=white&color=0ea5e9&labelColor=181717" alt="Stars" />
 
-  <br/><br/>
-
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mehul-vi&theme=tokyonight&bg_color=0b0f19&color=0ea5e9&line=0ea5e9&point=ffffff&area=true&hide_border=true" width="100%" alt="Contribution Graph" />
-
-</div>
-
----
-
-## 🎯 Future Trajectory & Focus
-
-* 💻 **Full-Stack Developer Role:** Actively searching for an impactful role to build resilient products.
-* 🏗️ **System Design:** Deepening expertise in distributed systems, message queues, and microservices.
-* 🐳 **Cloud & DevOps:** Enhancing deployment pipelines, Docker/Kubernetes orchestration, and CI/CD.
-* 🤖 **Next-Gen AI:** Exploring prompt engineering, vector databases, and RAG.
-
----
-
-## 🌐 Connect With Me
-
-<div align="center">
-  
-  <a href="mailto:mehulkumars315@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://linkedin.com/in/mehul-kumar-sahu">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/mehul-vi">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://www.mehul.site">
-    <img src="https://img.shields.io/badge/Portfolio-0EA5E9?style=for-the-badge" alt="Portfolio" />
-  </a>
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mehulkumars315@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mehul-kumar-sahu)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mehul-vi)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0EA5E9?style=for-the-badge)](https://www.mehul.site)
 
 </div>
 
 ---
 
 <div align="center">
-  <h3>✨ Let's collaborate and build something extraordinary!</h3>
-  <p>If you like my work, feel free to explore my repositories and drop a ⭐!</p>
-  
-  <br/>
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=mehul-vi.github-profile&left_text=Profile%20Views&right_color=0ea5e9&style=flat" alt="Profile Views" />
+
+✨ **Let's build something extraordinary.**
+
 </div>
